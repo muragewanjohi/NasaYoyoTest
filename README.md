@@ -33,4 +33,5 @@ Hilt is a dependency injection library for Android that reduces the boilerplate 
     - The app needs to impement caching through room db
     - Paging 3 remote mediator should also be added
     - Add more testing scenarios
+    - UI needs to be more streamlined
 
