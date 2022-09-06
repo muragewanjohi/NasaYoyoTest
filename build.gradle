@@ -3,6 +3,7 @@ buildscript {
         kotlinVersion = '1.7.0'
         navigationVersion = '2.5.1'
         hiltVersion = '2.42'
+        coroutinesVersion = '1.6.4'
     }
     dependencies {
         classpath "com.google.dagger:hilt-android-gradle-plugin:$hiltVersion"
