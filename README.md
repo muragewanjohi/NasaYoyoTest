@@ -3,8 +3,8 @@ NasaYoyo Test is an Android app that allows users to scroll through the list of 
 
 ## Screenshots
 
-![Gallery Image](./app/libs/screenshots/gallery.png)
-![Details Image](/app/libs/screenshots/details.png)
+![Gallery Image](./app/libs/screenshots/gallery.PNG)
+![Details Image](/app/libs/screenshots/details.PNG)
 
 ## Architecture Components
 
