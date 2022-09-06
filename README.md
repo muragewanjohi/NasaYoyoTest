@@ -3,8 +3,8 @@ NasaYoyo Test is an Android app that allows users to scroll through the list of 
 
 ## Screenshots
 
-![Gallery Image] (/app/libs/screenshots/gallery.png)
-![Details Image] (/app/libs/screenshots/details.png)
+![Gallery Image](/app/libs/screenshots/gallery.png)
+![Details Image](/app/libs/screenshots/details.png)
 
 ## Architecture Components
 
@@ -15,7 +15,7 @@ NasaYoyo Test is an Android app that allows users to scroll through the list of 
     * Navigation
     * ViewBinding
 
-### [Paging Library] (https://developer.android.com/topic/libraries/architecture/paging/v3-overview)
+### [Paging Library](https://developer.android.com/topic/libraries/architecture/paging/v3-overview)
 The Paging library includes the following features:
 
     * In-memory caching for your paged data. This ensures that your app uses system resources efficiently while working with paged data.
@@ -24,7 +24,7 @@ The Paging library includes the following features:
     * First-class support for Kotlin coroutines and Flow, as well as LiveData and RxJava.
     * Built-in support for error handling, including refresh and retry capabilities.
 
-### [Dagger Hilt] (https://developer.android.com/training/dependency-injection/hilt-android)
+### [Dagger Hilt](https://developer.android.com/training/dependency-injection/hilt-android)
 
 Hilt is a dependency injection library for Android that reduces the boilerplate of doing manual dependency injection in your project. Doing manual dependency injection requires you to construct every class and its dependencies by hand, and to use containers to reuse and manage dependencies
 
